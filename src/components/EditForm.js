@@ -12,7 +12,7 @@ export const EditForm = ({editTareas, task}) => {
   return (
     <form onSubmit={handleSubmit} className="Form">
     <input type="text" value={value} onChange={(e) => setValue(e.target.value)} className="tareas-input" placeholder='Actualizar tarea' />
-    <button type="submit" className='Tareas-btn'>Add Task</button>
+    <button type="submit" className='Tareas-btn'>Actualizar</button>
   </form>
   )
 }
