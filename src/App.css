@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #c6b9e7;
+  background: #758bfd;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -25,7 +25,7 @@ h1 {
 }
 
 .Wrapper {
-  background: #202864;
+  background: #27187e;
   margin-top: 5rem;
   padding: 2rem;
   border-radius: 5px;
@@ -39,7 +39,7 @@ h1 {
 .tareas-input {
   outline: none;
   background: none;
-  border: 1px solid #c0a7ff;
+  border: 1px solid #758bfd;
   padding: 0.5rem 1rem;
   margin-top: 1rem;
   margin-bottom: 2rem;
@@ -52,7 +52,7 @@ h1 {
 }
 
 .Tareas-btn {
-  background: #a88af5;
+  background: #758bfd;
   color: #fff;
   border: none;
   padding: 0.55rem;
@@ -63,7 +63,7 @@ h1 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #a88af5;
+  background: #758bfd;
   color: #fff;
   padding: 0.75rem 1rem;
   border-radius: 5px;
@@ -80,7 +80,7 @@ h1 {
 }
 
 .completed {
-  color: #c5aeff;
+  color: #aeb8fe;
   text-decoration: line-through;
   cursor: pointer;
 }
@@ -89,4 +89,4 @@ h1 {
 .delete-icon {
   cursor: pointer;
 }
- 
+
